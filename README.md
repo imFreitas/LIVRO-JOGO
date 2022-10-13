@@ -5,7 +5,10 @@ Histórias são caminhos para capturar pessoas.
 Histórias fazem pessoas se interessarem.                 
 Histórias não nos ensinam que monstros existem.         
 Histórias nos ensinam que monstros podem ser derrotados.        
-Hoje, em grupo, o desafio de vocês é contar uma história em grupo.         
+Hoje, em grupo, o desafio de vocês é contar uma história em grupo.   
+
+  <img src="https://media.discordapp.net/attachments/1020361087956295701/1022220584559579147/cabana.jpg" width="350" title="A Cabana 13">
+
 
 
 A Cabana 13, é um "Livro jogo" escrito totalmente em JavaScript e estilizado no CSS.
