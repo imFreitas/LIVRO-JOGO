@@ -14,3 +14,6 @@ Temos um psicopata à solta e cabe ao leitor descobrir de quem se trata e se man
 
 Ficou curioso para jogar?
 Acesse esse repositório e divirta-se!
+
+<h3>⚔️ <a href="">Clique aqui para jogar:</a></h3> 
+
