@@ -1,5 +1,5 @@
 # Hoje é dia de contar histórias 
-### Assista ao Trailer 
+### Assista ao Trailer (Clique na imagem)
 
 <a href= "https://www.youtube.com/watch?v=yfSdTdv7PP4&ab_channel=CezarOliveira">
 <img src="https://media.discordapp.net/attachments/1020361087956295701/1022220584559579147/cabana.jpg" width="100%" title="A Cabana 13" ></a><br>
